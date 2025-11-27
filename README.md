@@ -36,5 +36,4 @@ This smart helmet system provides **real-time monitoring and alerting** to impro
 - ESP32 Board Manager  
 - Sensor Libraries (DHT, WiFi, Blynk, etc.)  
 
-## 📡 System Architecture
 
